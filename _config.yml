@@ -5,6 +5,7 @@ email: hector@neurohazardous.com
 description: A project compilation by Hector D Orozco
 twitter_username: neurohazardous
 github_username: neurohazardous
+logo: img/portfolio_logo.png
 
 # Build settings
 markdown: kramdown
