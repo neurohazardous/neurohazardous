@@ -1,11 +1,11 @@
 # Basic options
-title: Your awesome title
-author: GitHub User
+title: Neuroscience, Engineering, and Data Analysis
+author: Hector D Orozco 
 email: hector@neurohazardous.com
-description: A wonderful site
+description: A project compilation 
 twitter_username: neurohazardous
 github_username: neurohazardous
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
