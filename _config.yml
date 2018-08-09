@@ -9,4 +9,4 @@ logo: /img/portfolio_logo.png
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
