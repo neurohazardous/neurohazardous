@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+# Basic options
+title: Your awesome title
+author: GitHub User
+email: hector@neurohazardous.com
+description: A wonderful site
+twitter_username: neurohazardous
+github_username: neurohazardous
+
+# Build settings
+markdown: kramdown
+theme: minima
