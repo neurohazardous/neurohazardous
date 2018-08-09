@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Main"
+    url: http://neurohazardous.com/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,52 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-docs:
-- title: Home
-  children:
-    - title: "About"
-      url: /docs/about/
-
-- title: Projects
-  children:
-    - title: "MEG Fingerprint"
-      url: /docs/meg_fingerprint/
-    - title: "Hypermusic"
-      url: /docs/hypermusic/
-    - title: "Hypersynch"
-      url: /docs/hypersynch/
-    - title: "OpenMac"
-      url: /docs/open_mac/
-    - title: "Brainlock"
-      url: /docs/brainlock/
-    - title: "Binaural Beats"
-      url: /docs/binaural_beats/
-    - title: "Toning"
-      url: /docs/toning/
-
-- title: Organized events
-  children:
-    - title: "Open Evening"
-      url: /docs/open_evening/
-    - title: "NeuroTechX"
-      url: /docs/neurotech/
-
-- title: Art
-  children:
-    - title: "You got males! (Improv Theatre)"
-      url: /docs/ygm/
-    - title: "perForto"
-      url: /docs/perforto/
-
-- title: Publications
-  children:
-    - title: "Peer-reviewed"
-      url: /docs/peer_reviewed/
-    - title: "Other"
-      url: /docs/other_publications/
-
-- title: Resume
-  children:
-    - title: "Download Resume"
-      url: /docs/download_resume/
