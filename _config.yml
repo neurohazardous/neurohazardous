@@ -64,12 +64,12 @@ comments:
 
 # Social Sharing
 twitter:
-  username               : neurohazardous
+  username               : "neurohazardous"
 #facebook:
 #  username               :
 #  app_id                 :
 #  publisher              :
-og_image                 : /assets/images/site_logo.png
+og_image                 : "/assets/images/site_logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
