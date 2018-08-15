@@ -15,15 +15,15 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "mint", "dark", "dirt", "neon", "default", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "en-CA"
+title                    : "My Portfolio"
+title_separator          : "|"
+name                     : "Hector D Orozco"
+description              : "Projects on Neuroscience, Engineering, and Data Science"
+url                      : "http://neurohazardous.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "neurohazardous/neurohazardous.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/site_logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
