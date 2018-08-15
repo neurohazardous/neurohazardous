@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "neurohazardous"
 facebook:
   username               :
   app_id                 :
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Hector D Orozco Perez"
+  avatar           : "/assets/images/bio_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "International graduate student passionate about neuroengineering, artificial intelligence, and music"
+  location         : "Montreal"
+  email            : "hector@neurohazardous.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,19 +113,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "neurohazardous"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "hectordorozco/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "neurohazardous"
   vine             :
   weibo            :
   xing             :
