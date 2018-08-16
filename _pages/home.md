@@ -1,49 +1,20 @@
 ---
 layout: single
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "<i class='fas fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.12.1">Latest release v4.12.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
-author_profile: true
 ---
 
-{% include feature_row id="intro" type="center" %}
+# Me
+I am an international student at [McMaster University](https://trainorlab.mcmaster.ca/people/orozcoph) with a variety of interests: neuroscience, engineering, music, artificial intelligence, and their different combinations. My main goal in life is to use engineering and AI solutions to translate research into real world applications, particularly in the field of neuroscience.
 
-{% include feature_row %}
+Here you will find all the projects I've been working on for the past few years. These projects range from the research I've done during my schooling, to some of the art-initiatives I've led and participated on. If you have any questions (or would like to work together in a project!) do not hesitate to send me a message or contact me through social media.
 
-# What if I do this? 
-And this? 
+# Education & Training
+|       Year        |     Degree         | University | Specs |
+| ----------------- | ---------------    | ---------- | ----- |
+| 09/17 - Present   | MSc in Psychology, Neuroscience, and Behavior | McMaster University (Hamilton, ON, Canada) | I will defend my thesis on December, 2018 |
+| 08/11 - 12/15     | BSc in Music Production Engineering (Honors Mention) | ITESM Campus Santa Fe (Mexico City, Mexico) | Degree combined electrical engineering with music production |
+| 08/13 - 08/16     | BSc in Psychology (On-line degree) - **Not completed** | UNAM, FESI (Mexico City, Mexico| Due to time constraints, I chose to not finish this degree |
 
-1. And just this? 
-2. Lol
-3. I'm having fun
+
+
+# Academic positions
