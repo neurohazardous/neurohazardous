@@ -296,6 +296,15 @@ defaults:
       layout: single
       author_profile: false
       share: false
+  # _art
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
      
 # Collections
 collections:
