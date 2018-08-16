@@ -311,9 +311,6 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
   art:
     output: true
     permalink: /:collection/:path/
