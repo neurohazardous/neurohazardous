@@ -12,7 +12,7 @@ Here you will find all the projects I've been working on for the past few years.
 
 |       Year        |     Degree         | University | Specs |
 | ----------------- | ---------------    | ---------- | ----- |
-| 09/17 - Present   | MSc in Psychology, Neuroscience, and Behavior | McMaster University (Hamilton, ON, Canada) | I will defend my thesis on December, 2018 |
+| 09/17 - Present   | MSc in Psychology, Neuroscience, and Behavior | McMaster University (Hamilton, ON, Canada) | I will defend my thesis on December, 2018. For thesis project details, go to [hyperMusic](http://neurohazardous.com/portfolio/hyper-music/) |
 | 08/11 - 12/15     | BSc in Music Production Engineering (Honors Mention) | ITESM Campus Santa Fe (Mexico City, Mexico) | Degree combined electrical engineering with music production |
 | 08/13 - 08/16     | BSc in Psychology (On-line degree) - **Not completed** | UNAM, FESI (Mexico City, Mexico| Due to time constraints, I chose to not finish this degree |
 
