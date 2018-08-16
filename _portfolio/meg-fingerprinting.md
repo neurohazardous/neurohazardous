@@ -2,7 +2,8 @@
 title: "megFingerprinting"
 excerpt: "Can we identify people based on their baseline brain activity?"
 header:
-  teaser: assets/images/meg_teaser.jpg
+  teaser: assets/images/meg_teaser.jpgç
+author_profile: true
 ---
  
 Description here
