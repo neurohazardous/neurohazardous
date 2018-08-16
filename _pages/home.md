@@ -16,5 +16,6 @@ Here you will find all the projects I've been working on for the past few years.
 | 08/13 - 08/16     | BSc in Psychology (On-line degree) - **Not completed** | UNAM, FESI (Mexico City, Mexico| Due to time constraints, I chose to not finish this degree |
 
 
-
-# Academic positions
+# Positions
+|       Year        |     Degree         | University | Specs |
+| ----------------- | ---------------    | ---------- | ----- |
