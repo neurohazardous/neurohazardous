@@ -1,5 +1,5 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "Workshops"
 search: false
 categories: 
   - Jekyll
