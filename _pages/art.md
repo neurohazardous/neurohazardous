@@ -1,8 +1,8 @@
 ---
-title: Pets
+title: Art
 layout: collection
-permalink: /pets/
-collection: pets
+permalink: /art/
+collection: art
 entries_layout: grid
 classes: wide
 ---
