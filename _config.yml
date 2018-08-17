@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "mint", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Home"
+title                    : "Hector's Portfolio"
 title_separator          : "|"
 name                     : "Hector D Orozco"
 description              : "Projects on Neuroscience, Engineering, and Data Science"
