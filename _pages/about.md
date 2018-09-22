@@ -2,6 +2,7 @@
 layout: single
 permalink: /
 title: "About"
+classes: wide
 ---
 
 I am an international student at [McMaster University](https://trainorlab.mcmaster.ca/people/orozcoph) with a variety of interests: neuroscience, engineering, music, artificial intelligence, and their combinations. My main goal in life is to use engineering and AI solutions to translate research into real world applications, specially in the field of neuroscience.
