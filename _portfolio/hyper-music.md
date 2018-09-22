@@ -1,6 +1,6 @@
 ---
 title: "hyperMusic"
-excerpt: "Are synchronized brain oscillations between musicians related to social coordination? Or are they just a by-product of shared perception? **[GitHub Repository](https://github.com/neurohazardous/hyperMusic)**"
+excerpt: "Are synchronized brain oscillations between musicians related to social coordination? Or are they just a by-product of shared perception?"
 author_profile: true
 header:
   teaser: assets/images/hyper_teaser.JPG
@@ -17,6 +17,9 @@ My masters thesis project aims to determine a mapping of the neural substrates o
 
 {% include gallery caption="Experimental setup and preliminary results" %}
 
+## GitHub Repository
+You can find it [here](https://github.com/neurohazardous/hyperMusic)
+
 ## Status
 On going - Finishing up data acquisition and in the middle of data analysis
 
@@ -31,4 +34,4 @@ On going - Finishing up data acquisition and in the middle of data analysis
 * Participant management 
 
 ## Output
-I am wrapping up the data acquisition phase; I am in the middle of data analysis. All the code can be found [here](https://github.com/neurohazardous/hyperMusic)
+I am in the middle of data analysis. All the code can be found [here](https://github.com/neurohazardous/hyperMusic)
