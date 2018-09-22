@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /about/
 title: "About"
 classes: wide
 ---
