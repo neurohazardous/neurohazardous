@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "mint", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Hector's Portfolio"
+title                    : "Portfolio"
 title_separator          : "|"
 name                     : "Hector D Orozco"
 description              : "Projects on Neuroscience, Engineering, and Data Science"
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Hector D Orozco Perez"
   avatar           : "/assets/images/bio_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "International graduate student passionate about neuroengineering, artificial intelligence, and music"
-  location         : "Montreal"
+  bio              : "Graduate student passionate about neuroengineering, artificial intelligence, and music"
+  location         : "Hamilton, Ontario"
   email            : "hector@neurohazardous.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
