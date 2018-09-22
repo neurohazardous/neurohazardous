@@ -1,6 +1,6 @@
 ---
 title: "hyperMusic"
-excerpt: "Are synchronized brain oscillations between musicians related to social coordination? Or are they just a by-product of shared perception?"
+excerpt: "Are synchronized brain oscillations between musicians related to social coordination? Or are they just a by-product of shared perception? [**GitHub Repository**](https://github.com/neurohazardous/hyperMusic)"
 author_profile: true
 header:
   teaser: assets/images/hyper_teaser.JPG
