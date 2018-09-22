@@ -1,11 +1,12 @@
 ---
 title: "Publications"
 permalink: /publications/
+classes: wide
 ---
 
 ## Non-peer reviewed
-* **Orozco, H. D.** & García, I. (2015). Música, Sonido y Estados de Conciencia Alterados. Revista
-Tusitala, 6 (1), 12 – 20. http://issuu.com/tusitalarevista/docs/n6_sonido
+* **Orozco, H. D.** & García, I. (2015). [Música, Sonido y Estados de Conciencia Alterados](http://issuu.com/tusitalarevista/docs/n6_sonido). Revista
+Tusitala, 6 (1), 12 – 20. 
 
 ## Peer reviewed
 * Bernardi, N. F., Snow, S., Peretz, I., **Orozco, H. D.**, Sabet-Kassouf, N., & Lehmann, A. (2017).
