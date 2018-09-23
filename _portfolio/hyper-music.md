@@ -14,7 +14,7 @@ gallery:
 classes: wide
 ---
 
-My masters thesis project aims to determine a mapping of the neural substrates of social interaction, as indexed by EEG, while two pianists play with each other. Following [research previously published from our lab](http://www.pnas.org/content/early/2017/05/02/1617657114.short), we also gather video data from our participants to determine if our experimental manipulation is working or not (i.e. "information flows" from the leader to the follower). 
+My masters thesis project aims to determine a mapping of the neural substrates of social interaction, as indexed by EEG, while two pianists play with each other. Following [research previously published from our lab](http://www.pnas.org/content/early/2017/05/02/1617657114.short), we also gather video data from our participants to determine if our experimental manipulation is working or not (i.e. "information flows" from the leader to the follower) 
 
 {% include gallery caption="Experimental setup and preliminary results" %}
 
@@ -29,7 +29,7 @@ On going - In the middle of data analysis
 
 ## Skills developed
 * Advanced signal processing, specifically focused on EEG data using EEGLAB, Fieldtrip (both MATLAB environments), and Python's MNE
-* Implementation of Information Theory algorithms using Python's Numpy and SciPy 
+* Implementation of Information Theory algorithms using Python's Numpy and SciPy
 * Basic processing of movement data using deep learning ([Optical Flow Analysis](https://www.cefala.org/FlowAnalyzer/))
 * High performance computing using Compute Canada resources
 * Participant management 
