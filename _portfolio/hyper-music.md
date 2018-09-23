@@ -11,6 +11,7 @@ gallery:
     image_path: assets/images/hyper_1.JPG
   - url: /assets/images/hyper_2.png
     image_path: assets/images/hyper_2.png
+classes: wide
 ---
 
 My masters thesis project aims to determine a mapping of the neural substrates of social interaction, as indexed by EEG, while two pianists play with each other. Following [research preivously published from our lab](http://www.pnas.org/content/early/2017/05/02/1617657114.short), we also gather video movement data from our participants to determine if our experimental manipulation is working or not
