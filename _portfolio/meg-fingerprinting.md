@@ -9,7 +9,7 @@ classes: wide
  
 I received an NSERC-CREATE graduate fellowship in 2017 (find the details [here](http://cd-create.org/)). As part of this fellowship, I completed a 16 week internship at the [Montreal Neurological Institute](https://www.mcgill.ca/neuro/). During this time, I worked with [OMEGA](https://www.mcgill.ca/bic/resources/omega), the Open MEG Archive. The projected I worked on during this internship aims to identify people based on resting state brain connectivity patterns using both Deep Learning and linear methods
 
-![circuit](/assets/images/meg_1.png)
+![fingerprinting](/assets/images/meg_1.png)
 
 ## GitHub Repository
 You can find it [here](https://github.com/neurohazardous/megFingerprinting)
