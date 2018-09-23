@@ -30,6 +30,6 @@ On going - In the middle of data analysis
 ## Skills developed
 * Advanced signal processing, specifically focused on EEG data using EEGLAB, Fieldtrip (both MATLAB environments), and Python's MNE
 * Implementation of Information Theory algorithms using Python's Numpy and SciPy 
-* Basic processing of movement data using [Optical Flow Analysis](https://www.cefala.org/FlowAnalyzer/)
-* High performance computing using Compute Canada
+* Basic processing of movement data using deep learning ([Optical Flow Analysis](https://www.cefala.org/FlowAnalyzer/))
+* High performance computing using Compute Canada resources
 * Participant management 
