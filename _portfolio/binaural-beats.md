@@ -10,7 +10,7 @@ gallery:
   - url: /assets/images/beats_1.png
     image_path: assets/images/beats_1.png
   - url: /assets/images/beats_3.png
-    image_path: assets/images/beats_2.png
+    image_path: assets/images/beats_3.png
 classes: wide
 ---
 
