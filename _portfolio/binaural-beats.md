@@ -14,7 +14,7 @@ classes: wide
 
 When two pure tones with a slight frequency mismatch are presented to each ear separately a third, beating tone is created in the brain. These are called binaural beats and they have been the subject of much speculation in recent years. Companies and alternative medicine gurus claim they can modulate behavior through the means of brain entrainment. This project aims to characterize binaural beat brain responses through the auditory pathway--from brainstem responses to connectivity patterns and their correlation with behavior
 
-{% include gallery caption="Pilot and preliminary results" %}
+{% include gallery caption="Preliminary results and pilot" %}
 
 ## GitHub Repository
 You can find it [here](https://github.com/neurohazardous/binauralBeats)
