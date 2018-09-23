@@ -4,7 +4,7 @@ excerpt: "Can Binaural Beats modulate behavior by entraining the cortex at speci
 author_profile: true
 header:
   teaser: assets/images/beats_teaser.png
-  gallery:
+gallery:
   - url: /assets/images/beats_1.png
     image_path: assets/images/beats_1.png
   - url: /assets/images/beats_2.jpg
