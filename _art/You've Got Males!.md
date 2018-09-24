@@ -7,16 +7,16 @@ header:
 gallery:
   - url: /assets/images/males_1.jpg
     image_path: assets/images/males_1.jpg
-  - url: /assets/images/males_2.png
-    image_path: assets/images/males_2.png
-  - url: /assets/images/males_3.png
-    image_path: assets/images/males_3.png
+  - url: /assets/images/males_2.jpg
+    image_path: assets/images/males_2.jpg
+  - url: /assets/images/males_3.jpg
+    image_path: assets/images/males_3.jpg
 classes: wide
 ---
 
-I started improvisation theatre at [The Staircase](http://staircase.org/) when I moved to Hamilton in 2016 to start graduate school at McMaster University. The community quickly became like a family to me. After an intensive 6 week workshop, my peers and I decided to form a troupe: You've Got Males! Through them I've been able to better my English (my first language is Spanish), listen better, and be more quick on my feet. These skills have direct translations to my day to day life: I feel more at ease speaking in public, I can communicate more clearly, and I find it easier to talk about (for example) my research to non-scientific communities. 
+I started improvisation theatre at [The Staircase](http://staircase.org/) when I moved to Hamilton in 2016. The community quickly became like a family to me. After an intensive 6 week workshop, my peers and I decided to form a troupe: You've Got Males! Through them I've been able to better my English (my first language is Spanish), listen better, and be more quick on my feet when debating. These skills have direct translations to my day to day life: I feel more at ease speaking in public, I can communicate more clearly, and I find it easier to adapt my speech to different audiences (i.e. talk about my research to non-scientific communities). 
 
-{% include gallery caption="You've got Males current Members: Matt Mongeon, Adam Vowels, Marek Ceglowski, Hector Orozco " %}
+{% include gallery caption="You've got Males current Members: Matt Mongeon, Adam Vowels, Marek Ceglowski, Hector Orozco" %}
 
 ## Past shows
 * [You've Got Males! Express Delivery](https://youve-got-males.brownpapertickets.com/)
