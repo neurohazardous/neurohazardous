@@ -22,5 +22,5 @@ Finished - Project was presented at the Biohacking Village of DEFCON in 2016
 
 ## Skills developed
 * Working with consumer EEG headsets (Muse, OpenBCI)
-* Acquiriing EEG signals using Python
+* Acquiring EEG signals using Python
 * The Event-related potential approach to EEG
