@@ -3,7 +3,7 @@ title: "brainlock"
 excerpt: "Can we develop an identification system based on event-related brain activity (i.e. N400)?"
 author_profile: true
 header:
-  teaser: assets/images/lock_teaser.png
+  teaser: assets/images/lock_teaser.jpg
 classes: wide
 ---
 
