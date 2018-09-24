@@ -13,9 +13,9 @@ This project marked my first collaboration with [NeuroTechX](http://neurotechx.c
 You can find it [here](https://github.com/neurohazardous/Brainlock)
 
 ## Status
-Finished - Project was presented at the Biohacking Village of DEFCON in 2016. You can see a recording of this presentation [here](https://www.youtube.com/watch?v=frAhjtnvkqs)
+Finished - Project was presented at the Biohacking Village of DEFCON in 2016
 
-<iframe width="420" height="315" src="https://youtube.com/embed/frAhjtnvkqs" frameborder="0"></iframe>
+<iframe width="210" height="160" src="https://youtube.com/embed/frAhjtnvkqs" frameborder="0"></iframe>
 
 ## Collaborators
 [Sydney Swaine-Simon](https://www.linkedin.com/in/sydneyswainesimon/), NeuroTechX's co-founder and operations director
