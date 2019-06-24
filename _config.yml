@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Hector D Orozco Perez"
   avatar           : "/assets/images/bio_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student passionate about neuroengineering, artificial intelligence, music, and good coffee"
-  location         : "Hamilton, Ontario"
+  bio              : "Artificial Intelligence Specialist/Machine Learning Programmer interested on neuroengineering, music, and good coffee"
+  location         : "Montreal, Quebec"
   email            : "hector@neurohazardous.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
